@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-ng"> 
+    <head>
+        <title>My resume</title>
+    </head>
+    <body>
+        <h1>OLUWASEYI T. ADELAJU</h1>
+        <p>LAGOS, NIGERIA 
+        
+            <br /?>
+            +234 706 882 7750, SEYIADELAJU@GMAIL.COM
+        </p>
+        <img src="./assets/Seyi A.jpg" height="200">
+        <hr />
+        <h2>Profile</h2>
+        <p>Growth PM with 10+ years of experience in digital marketing, sales, and product. Skilled in developing and launching innovative solutions that increase revenue, engagement, and satisfaction. Experienced in leading and coordinating teams across locations and regions, delivering quality results on time and on budget.</p>
+        <h2>Summary</h2>
+        <ul>
+            <li>10+ years of Digital Marketing</li>
+            <li>8+ years of Sales Enablement</li>
+            <li>7+ years of Product Management.</li>
+            <li>Industry: Venture Capital, Education Technology, Business Automation, Identity Management and  Online Discovery.
+            </li>
+        </ul>
+        <h2>Experience</h2>
+        <h3>Seamfix</h3>
+        <h4>Growth Product Manager</h4> 
+        <p>Sep 2022 - Date</p>
+        
+        <p>I am the head of the business and tech team that developed Certify - a platform that enables users to make, issue and verify digital credentials and ID cards for different purposes.</p>
+        <ul>
+            <li> I transformed 3 enterprise solutions into a powerful, scalable B2B2C and led the market adoption efforts from the first B2B customer to the first 5,000 B2C customers by executing a product strategy that ensured quick and steady revenue generation within a few days of soft launch.</li>
+            <li>I coordinated a tech team from various locations and regions to complete a project worth $850k ARR in 3 months, even though the tech lead left after the first month of development. </li>
+            <li>I significantly reduced the time to value by enhancing user onboarding and automating transcript applications for users.</li>
+            
+        </ul>
+        <h3>Motocheck </h3>
+        <h4>Growth Product Manager (Contract)</h4>
+        <p> Jan 2021 - Date</p>
+        <p>As a software team leader, I have developed and implemented innovative solutions for vehicle inspection and data analysis. </p>
+        <ul>
+            <li>I have created a reliable and user-friendly inspection app for both Andriod and IOS devices, as well as a web platform for inspection analytics.</li>
+            <li>I have also improved the company's cash flow by introducing a wallet system for agents that allows real-time revenue collection </li>
+            <li> I have expanded the product and service portfolio from vehicle inspections to fleet management, increasing the company's potential annual revenue by over 300%.</li>
+            
+        </ul>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><b>Management:</b> Jira, Asana,Trello, Click-up</li>
+            <li><b>Mapping & Documentation:</b> Confluence, Miro</li>
+            <li><b>Design & Prototyping:</b> Figma, Adobe XD, Photoshop, Canva</li>
+            <li><b>Citizen Development:</b> OutSystems, Wordpress, Webflow, Xano, Weweb, Microsoft Power Platform</li>
+            <li><b>Frameworks:</b>Scrum, Kanban</li>
+            <li><b>Product Marketing:</b> Marketing Automation, SEO and SEM, Display Advertising, Content Strategy</li>
+        </ul>
+        <h2>Education</h2>
+        <Ul>
+            <li>5.5 of 7.0, Masters in School Media, University of Ibadan (2018)</li>
+            <li>Second Class Honours, Bachelor of Arts & Education, Obafemi Awolowo University, Nigeria. (2013)</li>
+        </Ul>
+        <footer>
+            <p>Oluwaseyi Adelaju</p>
+            <p><a href="mailto:hege@example.com">seyiadelaju@gmail.com</a></p>
+          </footer>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
